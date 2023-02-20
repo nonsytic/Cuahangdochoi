@@ -1,0 +1,17 @@
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\bin\Debug\cuahangdochoi.exe.config
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\bin\Debug\cuahangdochoi.exe
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\bin\Debug\cuahangdochoi.pdb
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.Properties.Resources.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.csproj.GenerateResource.cache
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.csproj.CoreCompileInputs.cache
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.exe
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.pdb
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.main.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.quanlykho.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.quanlynhanvien.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.csproj.AssemblyReference.cache
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.quanlybanhang.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.quanlykhachhang.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.thongke.resources
+C:\Users\parod\Downloads\bai cnpm\cuahangdochoi\cuahangdochoi\obj\Debug\cuahangdochoi.login.resources
